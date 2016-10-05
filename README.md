@@ -10,3 +10,8 @@ This package is basically a fork of the [tree-view-open-files](https://atom.io/p
 * The 'open files' and 'folders' sections of the panel are clearly and elegantly labeled.
 * The files are ordered alphabetically. You can get the same order in tabs by using the [tab-smart-sort](https://atom.io/packages/tab-smart-sort) package.
 * The cross to close a file only appears when the mouse hovers over the entry (while the 'edited' marker is always visible).
+
+## TODO
+
+* Right now, when there are several panes in the editor, each one has its own 'open files' section in the tree-view, but they are all labelled 'open files'. The goal is for them to have a more descriptive label.
+* Configuration. At this point, the package is not configurable, but I am considering possible configuration options (ideas and suggestions are welcome).
