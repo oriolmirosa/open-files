@@ -2,11 +2,11 @@
 
 This package adds an 'open files' pane above Atom's tree-view, mimicking the functionality of Sublime Text.
 
-![open-files package screenshot](https://cloud.githubusercontent.com/assets/6955013/19125970/b3c6724c-8afe-11e6-99d3-8c3f41f40ca7.png)
+![open-files package screenshot](https://cloud.githubusercontent.com/assets/6955013/19172003/46242f58-8be5-11e6-856e-152defeb59af.png)
 
 This package is basically a fork of the [tree-view-open-files](https://atom.io/packages/tree-view-open-files) by [postcasio](https://github.com/postcasio), so most of the credit should go to him. The fork ports the package from coffeescript to ES6, and makes a number of modifications to make the 'open files' pane look similar to Sublime Text:
 
-* The pane appears as part of the tree-view, sitting above it. It is not manually resizable (it will show all open files) and it shares the same scroller as the tree-view.
+* The pane appears as part of the tree-view, sitting above it. It resizes automatically to show all open files, and it shares the same scroller as the tree-view.
 * The 'open files' and 'folders' sections of the panel are clearly and elegantly labeled.
 * The files are ordered alphabetically. You can get the same order in tabs by using the [tab-smart-sort](https://atom.io/packages/tab-smart-sort) package.
 * The cross to close a file only appears when the mouse hovers over the entry (while the 'edited' marker is always visible).
