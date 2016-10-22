@@ -1,8 +1,8 @@
-## 0.3.0
+## 0.4.0
 
 - Added the ability to sort the open files list by multiple criteria (filename, extension, and directory)
 
-## 0.2.4
+## 0.3.0
 
 - The open files panel is now collapsable. You can click on the 'OPEN FILES' label to collapse the list of open files (fixes [#4](https://github.com/oriolmirosa/open-files/issues/4))
 - Added settings option to toggle whether the open files panel is collapsable
