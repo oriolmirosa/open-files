@@ -9,10 +9,10 @@ This package is basically a fork of the [tree-view-open-files](https://atom.io/p
 * The pane appears as part of the tree-view, sitting above it. It resizes automatically to show all open files, and it shares the same scroller as the tree-view.
 * The 'open files' panel is collapseable when clicking on the label. An option in the settings tab makes it possible to make the panel uncollapseable.
 * The 'open files' and 'folders' sections of the panel are clearly and elegantly labeled.
-* The files are ordered alphabetically. You can get the same order in tabs by using the [tab-smart-sort](https://atom.io/packages/tab-smart-sort) package.
+* The file list can be ordered alphabetically using multiple (cascading) criteria: filename (base), extension (ext) and directory (dir). The order of these criteria can be indicated as a (comma-separated) string in the settings. Default is: base, ext, dir. This is the same functionality that can be found in the [tab-smart-sort](https://atom.io/packages/tab-smart-sort) package.
 * The cross to close a file only appears when the mouse hovers over the entry (while the 'edited' marker is always visible).
 
 ## TODO
 
-* Right now, when there are several panes in the editor, each one has its own 'open files' section in the tree-view, but they are all labelled 'open files'. The goal is for them to have a more descriptive label.
-* Configuration. Toggling the panel from collapsable to uncollapseable is the only configuration available, but I am considering other possible configuration options (ideas and suggestions are welcome).
+* Right now, when there are several panes in the editor, each one has its own 'open files' section in the tree-view, but they are all labeled 'open files'. The goal is for them to have a more descriptive label.
+* Configuration. Ideas and suggestions for further configuration options are welcome.
