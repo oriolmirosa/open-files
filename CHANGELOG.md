@@ -1,3 +1,8 @@
+## 0.4.1
+
+- Fixed regression that made newly opened files not appear in the open files list if there were no open files to begin with
+- Fixed sorting so that directories are now ordered properly
+
 ## 0.4.0
 
 - Added the ability to sort the open files list by multiple criteria (filename, extension, and directory)
