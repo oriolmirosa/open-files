@@ -1,3 +1,7 @@
+## 0.4.2
+
+- Minor to change to avoid deprecation warning about path.dirname and path.extname requiring a string as an argument
+
 ## 0.4.1
 
 - Fixed regression that made newly opened files not appear in the open files list if there were no open files to begin with
