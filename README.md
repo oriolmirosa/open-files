@@ -1,4 +1,4 @@
-# open-files package
+# open-files-extended package
 
 This package adds an 'open files' pane above Atom's tree-view, mimicking the functionality of Sublime Text.
 
