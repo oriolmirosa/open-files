@@ -1,14 +1,14 @@
 {
-  "name": "open-files-extended",
-  "main": "./lib/open-files",
+  "name": "working-files",
+  "main": "./lib/working-files",
   "version": "0.5.2",
-  "description": "This package adds an 'open files' pane above Atom's tree-view, mimicking the functionality of Sublime Text.  Includes file icon support.",
+  "description": "This package adds a 'working files' pane above Atom's tree-view, mimicking the functionality of Brackets.  Includes file icon support.",
   "keywords": [
     "tree-view",
     "files",
     "open"
   ],
-  "repository": "https://github.com/davidashman/open-files-extended",
+  "repository": "https://github.com/davidashman/working-files",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
