@@ -1,7 +1,7 @@
 {
   "name": "working-files",
   "main": "./lib/working-files",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "This package adds a 'working files' pane above Atom's tree-view, mimicking the functionality of Brackets.  Includes file icon support.",
   "keywords": [
     "tree-view",
