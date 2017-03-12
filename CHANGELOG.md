@@ -1,3 +1,8 @@
+## 0.6.4
+
+- Add scrolling support.
+- Add context menu options for closing files.
+
 ## 0.6.0 - Renamed to working-files
 
 ## 0.4.2
