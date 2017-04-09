@@ -1,3 +1,7 @@
+## 0.4.3
+
+- Toggling the tree-view now doesn't create more 'FOLDERS' labels or destroys the open-files pane (should also fix [#9](https://github.com/oriolmirosa/open-files/issues/9))
+
 ## 0.4.2
 
 - Minor to change to avoid deprecation warning about path.dirname and path.extname requiring a string as an argument
