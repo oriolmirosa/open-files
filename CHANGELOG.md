@@ -1,4 +1,8 @@
-## 0.4.3
+## 0.5.2
+
+- Fixed crash introduced in 1.16.0, when prepend() wouldn't work anymore. Added the polyfill so that it continues to work
+
+## 0.5.1
 
 - Toggling the tree-view now doesn't create more 'FOLDERS' labels or destroys the open-files pane (should also fix [#9](https://github.com/oriolmirosa/open-files/issues/9))
 
