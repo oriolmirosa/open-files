@@ -1,3 +1,11 @@
+## 0.5.4
+
+- Changes to make the package work in 1.17.0. It should still work with 1.16.0 out of the box for those who prefer not to update
+
+## 0.5.3
+
+- Minor changes to attempt to fix [#10](https://github.com/oriolmirosa/open-files/issues/10)
+
 ## 0.5.2
 
 - Fixed crash introduced in 1.16.0, when prepend() wouldn't work anymore. Added the polyfill so that it continues to work
