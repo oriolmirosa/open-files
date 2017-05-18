@@ -1,3 +1,7 @@
+## 0.5.5
+
+- Fix for [#11](https://github.com/oriolmirosa/open-files/issues/11)
+
 ## 0.5.4
 
 - Changes to make the package work in 1.17.0. It should still work with 1.16.0 out of the box for those who prefer not to update
