@@ -1,3 +1,7 @@
+## 0.5.6
+
+- Fix for [#10](https://github.com/oriolmirosa/open-files/issues/10)
+
 ## 0.5.5
 
 - Fix for [#11](https://github.com/oriolmirosa/open-files/issues/11)
