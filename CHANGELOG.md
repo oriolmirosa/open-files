@@ -1,3 +1,7 @@
+## 0.5.7
+
+- Fixed regression that led to [#13](https://github.com/oriolmirosa/open-files/issues/13)
+
 ## 0.5.6
 
 - Fix for [#10](https://github.com/oriolmirosa/open-files/issues/10)
