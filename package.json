@@ -1,7 +1,7 @@
 {
   "name": "open-files",
   "main": "./lib/open-files",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "This package adds an 'open files' pane above Atom's tree-view, mimicking the functionality of Sublime Text",
   "keywords": [
     "tree-view",
