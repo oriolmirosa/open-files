@@ -11,6 +11,8 @@ This package is basically a fork of the [tree-view-open-files](https://atom.io/p
 * The 'open files' and 'folders' sections of the panel are clearly and elegantly labeled.
 * The file list can be ordered alphabetically using multiple (cascading) criteria: filename (base), extension (ext) and directory (dir). The order of these criteria can be indicated as a (comma-separated) string in the settings. Default is: base, ext, dir. This is the same functionality that can be found in the [tab-smart-sort](https://atom.io/packages/tab-smart-sort) package.
 * The cross to close a file only appears when the mouse hovers over the entry (while the 'edited' marker is always visible).
+* NEW in 0.6.0: In order to prevent the fast sliding down of the tree view when a file is added, there is a delay before the file appears in the 'open files' panel. The delay is configurable in the package's settings (default is 1000 ms, i.e., 1 second)
+* NEW in 0.6.0: Files added and removed from the 'open files' panel are animated. The animation has a default duration of 300 ms, but this is configurable in the package's setting.
 
 ## TODO
 
