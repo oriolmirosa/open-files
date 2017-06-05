@@ -1,3 +1,8 @@
+## 0.6.0
+
+- Added delay before a new file appears in the 'open files' panel. This prevents the whole tree view from sliding downward too quickly and thus making the second click (when double-clicking) to be done on a different file. The delay is configurable (in milliseconds) in the setting for the package (default is 1000 ms, i.e. 1 second)
+- Added animation when a file is added to (or removed from) the 'open files' panel. The animation duration is also configurable (default is 300 ms)
+
 ## 0.5.7
 
 - Fixed regression that led to [#13](https://github.com/oriolmirosa/open-files/issues/13)
