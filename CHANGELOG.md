@@ -1,3 +1,7 @@
+## 0.6.1
+
+- Fixed a bug that made the icons from the file-icons package to not be used in the 'open files' panel [#15](https://github.com/oriolmirosa/open-files/issues/15)
+
 ## 0.6.0
 
 - Added delay before a new file appears in the 'open files' panel. This prevents the whole tree view from sliding downward too quickly and thus making the second click (when double-clicking) to be done on a different file. The delay is configurable (in milliseconds) in the setting for the package (default is 1000 ms, i.e. 1 second)
