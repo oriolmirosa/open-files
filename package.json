@@ -13,6 +13,13 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "consumedServices": {
+    "file-icons.element-icons": {
+        "versions": {
+            "1.0.0": "consumeElementIcons"
+        }
+    }
+},
   "dependencies": {
     "atom-utils": "^0.9.2",
     "jquery": "^3.1.1",
