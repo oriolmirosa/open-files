@@ -1,3 +1,7 @@
+## 0.7.1
+
+- Added a donation button to the readme page
+
 ## 0.7.0
 
 - When several panels are open, the title for the 'open files' panels now includes PANEL #, with the number showing the order in which the panels were opened. When panels are closed, the numbers of the panels are re-calculated so that they reflect the panels present in the workspace
