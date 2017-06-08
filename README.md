@@ -1,5 +1,8 @@
 # open-files package
 
+[![apm][apm-image]][apm-url]
+[![apmi][apmi-image]][apmi-url]
+
  If you enjoy the package, please consider supporting my work with a donation (via PayPal)
 
  [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=E3F3UUCGY65RC&lc=US&item_name=%27Open%20Files%27%20Atom%20package&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
