@@ -27,3 +27,9 @@ This package is basically a fork of the [tree-view-open-files](https://atom.io/p
 
 * Make the files in the 'open files' panel draggable, and keep the tab order in sync with the 'open files' order.
 * Configuration. Ideas and suggestions for further configuration options are welcome.
+
+[apm-image]: https://img.shields.io/apm/v/open-files.svg?style=flat-square
+[apm-url]: https://atom.io/packages/open-files
+
+[apmi-image]: https://img.shields.io/apm/dm/open-files.svg?style=flat-square
+[apmi-url]: https://atom.io/packages/open-files
