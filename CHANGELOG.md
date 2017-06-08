@@ -1,3 +1,8 @@
+## 0.6.2
+
+- Fixed a bug that threw an error whenever a new file was created after closing the 'Settings' page (mentioned in [#17](https://github.com/oriolmirosa/open-files/issues/17)
+- Prepared the package so that it will continue to work when 1.18 is released (it works normally on 1.18beta2 now)
+
 ## 0.6.1
 
 - Fixed a bug that made the icons from the file-icons package to not be used in the 'open files' panel [#15](https://github.com/oriolmirosa/open-files/issues/15)
