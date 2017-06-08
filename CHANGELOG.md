@@ -1,3 +1,7 @@
+## 0.7.0
+
+- When several panels are open, the title for the 'open files' panels now includes PANEL #, with the number showing the order in which the panels were opened. When panels are closed, the numbers of the panels are re-calculated so that they reflect the panels present in the workspace
+
 ## 0.6.2
 
 - Fixed a bug that threw an error whenever a new file was created after closing the 'Settings' page (mentioned in [#17](https://github.com/oriolmirosa/open-files/issues/17)
