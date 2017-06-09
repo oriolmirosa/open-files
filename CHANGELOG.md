@@ -1,3 +1,7 @@
+## 0.7.2
+
+- Attemp to fix bug [#18](https://github.com/oriolmirosa/open-files/issues/18)
+
 ## 0.7.1
 
 - Added a donation button to the readme page
