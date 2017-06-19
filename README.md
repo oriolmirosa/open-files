@@ -22,6 +22,8 @@ This package is basically a fork of the [tree-view-open-files](https://atom.io/p
 * NEW in 0.6.0: In order to prevent the fast sliding down of the tree view when a file is added, there is a delay before the file appears in the 'open files' panel. The delay is configurable in the package's settings (default is 1000 ms, i.e., 1 second).
 * NEW in 0.6.0: Files added and removed from the 'open files' panel are animated. The animation has a default duration of 300 ms, but this is configurable in the package's settings (default is 300 ms).
 * NEW in 0.7.0: When several panels are open, the title for the 'open files' panels now includes PANEL #, with the number showing the order in which the panels were opened. When panels are closed, the numbers of the panels are re-calculated so that they reflect the panels present in the workspace
+* NEW in 0.8.0: The icons mirror those of the tabs for all Atom views in both the `file-icons` and the `seti-icons` packages
+* NEW in 0.8.0: The files in the 'open files' panel are automatically re-sorted when there is a file name change or a new file is saved for the first time. The icons also change automatically
 
 ## TODO
 

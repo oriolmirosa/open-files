@@ -1,3 +1,10 @@
+## 0.8.0
+
+- Rewrite of large portions of the package in order to make it more stable. Hopefully this takes care of bug [#18](https://github.com/oriolmirosa/open-files/issues/18)
+- Added the ability to re-sort files in the 'open files' panel automatically when a file has been renamed, or when it has been saved for the first time after creating a new file
+- The icons should now change automatically and immediately when a file name change implies a filetype change, and also when a file is saved for the first time
+- For both the `file-icons` and the `seti-icons` packages, the icons in the 'open files' panel now mirror those of the tabs for the various special Atom views: 'Settings', 'Deprecation Cop', 'Timecop', 'About', and 'Project Find Results'. For `seti-icons`, the icon for a new file is now also the same as in the tabs
+
 ## 0.7.2
 
 - Attemp to fix bug [#18](https://github.com/oriolmirosa/open-files/issues/18)
