@@ -1,3 +1,7 @@
+## 0.8.1
+
+- Yet another attempt to take care of bug [#18](https://github.com/oriolmirosa/open-files/issues/18)
+
 ## 0.8.0
 
 - Rewrite of large portions of the package in order to make it more stable. Hopefully this takes care of bug [#18](https://github.com/oriolmirosa/open-files/issues/18)
