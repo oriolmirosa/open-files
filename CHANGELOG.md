@@ -1,3 +1,7 @@
+## 0.8.2
+
+- Finally figured out what the problem was with issue [#18](https://github.com/oriolmirosa/open-files/issues/18). The removal of elements depended on their indeces, but when several were removed at the same time (or quickly one after the other, which became a problem because of the delays and animations), then the indeces were non-existent and that led to errors. I assigned unique ids for each element, so now their removal does not depend on their index and should always be accurate
+
 ## 0.8.1
 
 - Yet another attempt to take care of bug [#18](https://github.com/oriolmirosa/open-files/issues/18)
